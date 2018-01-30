@@ -3,7 +3,7 @@ Lightweight installer to add a context menu option to open a bash (WSL) shell at
 
 ## Installation:
 
-Download an .msi installer from the releases folder.
+Download an .msi installer from the [releases page](https://github.com/eksime/WSLMenu/releases/latest).
 
 The installer creates two keys under `HKCU\Software\Classes\Directory\Background\shell` to enable the menu entry, no files are created.
 
